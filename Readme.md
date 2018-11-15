@@ -1,3 +1,21 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FormatConditionsForm.xaml](./CS/FormatConditionsForm.xaml)
+* [FormatConditionsForm.xaml.cs](./CS/FormatConditionsForm.xaml.cs)
+* [Appearance.cs](./CS/FormatConditionsProvider/Appearance.cs) (VB: [Appearance.vb](./VB/FormatConditionsProvider/Appearance.vb))
+* [ConditionalCellStyle.xaml](./CS/FormatConditionsProvider/ConditionalCellStyle.xaml) (VB: [ConditionalCellStyle.xaml](./VB/FormatConditionsProvider/ConditionalCellStyle.xaml))
+* [CellAppearanceConverter.cs](./CS/FormatConditionsProvider/Converters/CellAppearanceConverter.cs) (VB: [CellAppearanceConverter.vb](./VB/FormatConditionsProvider/Converters/CellAppearanceConverter.vb))
+* [ColorToBrushConverter.cs](./CS/FormatConditionsProvider/Converters/ColorToBrushConverter.cs) (VB: [ColorToBrushConverter.vb](./VB/FormatConditionsProvider/Converters/ColorToBrushConverter.vb))
+* [NullToBooleanConverter.cs](./CS/FormatConditionsProvider/Converters/NullToBooleanConverter.cs) (VB: [NullToBooleanConverter.vb](./VB/FormatConditionsProvider/Converters/NullToBooleanConverter.vb))
+* [FormatCondition.cs](./CS/FormatConditionsProvider/FormatCondition.cs) (VB: [FormatConditionsWindow.xaml.vb](./VB/FormatConditionsProvider/FormatConditionsWindow.xaml.vb))
+* [FormatConditionsProvider.cs](./CS/FormatConditionsProvider/FormatConditionsProvider.cs) (VB: [FormatConditionsProvider.vb](./VB/FormatConditionsProvider/FormatConditionsProvider.vb))
+* [FormatConditionsWindow.xaml](./CS/FormatConditionsProvider/FormatConditionsWindow.xaml) (VB: [FormatConditionsWindow.xaml.vb](./VB/FormatConditionsProvider/FormatConditionsWindow.xaml.vb))
+* [FormatConditionsWindow.xaml.cs](./CS/FormatConditionsProvider/FormatConditionsWindow.xaml.cs) (VB: [FormatConditionsWindow.xaml.vb](./VB/FormatConditionsProvider/FormatConditionsWindow.xaml.vb))
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+* [ViewModel.cs](./CS/ViewModel.cs) (VB: [ViewModel.vb](./VB/ViewModel.vb))
+<!-- default file list end -->
 # How to: Apply format conditions to grid rows and/or cells at runtime
 
 

@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [FormatConditionsForm.xaml](./CS/Default MVVM/FormatConditionsForm.xaml) (VB: [FormatConditionsForm.xaml.vb](./VB/Default MVVM/FormatConditionsForm.xaml.vb))
+* [FormatConditionsForm.xaml](./CS/Default MVVM/FormatConditionsForm.xaml) (VB: [FormatConditionsForm.xaml](./VB/Default MVVM/FormatConditionsForm.xaml))
 * [FormatConditionsForm.xaml.cs](./CS/Default MVVM/FormatConditionsForm.xaml.cs) (VB: [FormatConditionsForm.xaml.vb](./VB/Default MVVM/FormatConditionsForm.xaml.vb))
 * [Appearance.cs](./CS/Default MVVM/FormatConditionsProvider/Appearance.cs) (VB: [Appearance.vb](./VB/Default MVVM/FormatConditionsProvider/Appearance.vb))
 * [ConditionalCellStyle.xaml](./CS/Default MVVM/FormatConditionsProvider/ConditionalCellStyle.xaml) (VB: [ConditionalCellStyle.xaml](./VB/Default MVVM/FormatConditionsProvider/ConditionalCellStyle.xaml))
@@ -9,9 +9,9 @@
 * [ColorToBrushConverter.cs](./CS/Default MVVM/FormatConditionsProvider/Converters/ColorToBrushConverter.cs) (VB: [ColorToBrushConverter.vb](./VB/Default MVVM/FormatConditionsProvider/Converters/ColorToBrushConverter.vb))
 * [FormatCondition.cs](./CS/Default MVVM/FormatConditionsProvider/FormatCondition.cs) (VB: [FormatConditionsWindow.xaml.vb](./VB/Default MVVM/FormatConditionsProvider/FormatConditionsWindow.xaml.vb))
 * [FormatConditionsProvider.cs](./CS/Default MVVM/FormatConditionsProvider/FormatConditionsProvider.cs) (VB: [FormatConditionsProvider.vb](./VB/Default MVVM/FormatConditionsProvider/FormatConditionsProvider.vb))
-* [FormatConditionsWindow.xaml](./CS/Default MVVM/FormatConditionsProvider/FormatConditionsWindow.xaml) (VB: [FormatConditionsWindow.xaml.vb](./VB/Default MVVM/FormatConditionsProvider/FormatConditionsWindow.xaml.vb))
+* [FormatConditionsWindow.xaml](./CS/Default MVVM/FormatConditionsProvider/FormatConditionsWindow.xaml) (VB: [FormatConditionsWindow.xaml](./VB/Default MVVM/FormatConditionsProvider/FormatConditionsWindow.xaml))
 * [FormatConditionsWindow.xaml.cs](./CS/Default MVVM/FormatConditionsProvider/FormatConditionsWindow.xaml.cs) (VB: [FormatConditionsWindow.xaml.vb](./VB/Default MVVM/FormatConditionsProvider/FormatConditionsWindow.xaml.vb))
-* [MainWindow.xaml](./CS/Default MVVM/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/Default MVVM/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/Default MVVM/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Default MVVM/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/Default MVVM/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Default MVVM/MainWindow.xaml.vb))
 * [ViewModel.cs](./CS/Default MVVM/ViewModel.cs) (VB: [ViewModel.vb](./VB/Default MVVM/ViewModel.vb))
 <!-- default file list end -->
